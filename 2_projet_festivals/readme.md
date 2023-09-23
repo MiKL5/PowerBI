@@ -6,11 +6,11 @@ Via Power Query
     * Termes pas trop long 
     * Et compréhensible par tous [¹] [²]
 * Permuter les colonnes
+* Changer le type des colonnes
 
 
-
-[¹] Certaines manipulations incombent d'écrire les noms des colonnes
+[¹] Certaines manipulations incombent d'écrire les noms des colonnes  
 [²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes
 ___
 >> NOTA  
-Se méfier des types de colonnes modifiés par Power Query
+Se méfier des types de colonnes détecter par Power Query
