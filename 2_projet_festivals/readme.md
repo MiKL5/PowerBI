@@ -18,7 +18,7 @@
 
 
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
-[²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes
+[²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes  
 [^3] Ne pas le faire si c'est pas nécessaire ou s'il manque beaucoup de valeurs et laisser un commentaire sous le graphique si c'est fait.
 ___
 >> NOTA  
