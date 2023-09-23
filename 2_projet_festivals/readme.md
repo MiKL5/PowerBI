@@ -7,6 +7,9 @@ Via Power Query
     * Et compréhensible par tous [¹] [²]
 * Permuter les colonnes
 * Changer le type des colonnes
+* Auto-detect column values
+* Remplacer les valeurs des colonnes
+* Remplacer les erreurs
 
 
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
