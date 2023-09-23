@@ -13,4 +13,4 @@ Via Power Query
 [²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes
 ___
 >> NOTA  
-Se méfier des types de colonnes détecter par Power Query
+Se méfier des types de colonnes détecter par Power Query afin de ne pas mettre en péril les retraitement ultérieurs
