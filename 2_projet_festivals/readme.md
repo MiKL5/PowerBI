@@ -2,7 +2,7 @@
 
 ## **Via Power Query** <img align="right" src="../assets/powerQuery.png" alt="Power Query" title="Power Query" widht="auto" height="64px">
 
-### **Modifier des colonnes**
+> ### **Modifier des colonnes**
 
 * Supprimer les colonnes inutiles
 * Renommage de colonne
@@ -17,7 +17,7 @@
 * Pivoter et dépivoter les colonnes
 * Remplir les lignes vides avec des valeurs adjacentes [³]
 
-### **Modification des colonnes de texte**
+> ### **Modification des colonnes de texte**
 
 * Fractionner une colonne
 * Changer le format d'une valeur textuel
@@ -25,13 +25,20 @@
 * Extraire des valeurs d'une colonne
 * Analyse du `XML` ou du `JSON` contenu dans une colonne
 
-### **Modification des colonnes numériques**
+> ### **Modification des colonnes numériques**
 
 * Faire un arrondi
 * Appliquer des calculs statistiques
 * compter le nombre de lignes
 * Appliquer des calculs scientifiques
 * Extraire le signe d'une valeur
+
+> ### **Modifier les colonnes date/heure**
+
+* Extraction des informations d'une date
+* Extraction des informations d'une heure
+
+
 
 ___
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
