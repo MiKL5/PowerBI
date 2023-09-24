@@ -2,7 +2,7 @@
 
 ## **Via Power Query** <img align="right" src="../assets/powerQuery.png" alt="Power Query" title="Power Query" widht="auto" height="64px">
 
-### Modifier des colonnes
+### **Modifier des colonnes**
 
 * Supprimer les colonnes inutiles
 * Renommage de colonne
@@ -10,24 +10,33 @@
     * Et compréhensible par tous [¹] [²]
 * Permuter les colonnes
 * Changer le type des colonnes
+* Changer le type des colonnes
 * Auto-détecter les valeurs des colonnes
 * Remplacer les valeurs des colonnes
 * Remplacer les erreurs
 * Pivoter et dépivoter les colonnes
 * Remplir les lignes vides avec des valeurs adjacentes [³]
 
-### Modification des colonnes de texte
+### **Modification des colonnes de texte**
 
 * Fractionner une colonne
 * Changer le format d'une valeur textuel
 * Fusionner des colonnes
 * Extraire des valeurs d'une colonne
-* Analyse du XML ou du JSON contenu dans une colonne
+* Analyse du `XML` ou du `JSON` contenu dans une colonne
 
+### **Modification des colonnes numériques**
 
+* Faire un arrondi
+* Appliquer des calculs statistiques
+* compter le nombre de lignes
+* Appliquer des calculs scientifiques
+* Extraire le signe d'une valeur
+
+___
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
 [²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes  
 [³] Ne pas le faire si ce n'est pas nécessaire ou s'il manque beaucoup de valeurs et laisser un commentaire sous le graphique si c'est fait.
 ___
->> NOTA  
+>>> NOTA  
 Se méfier des types de colonnes détectés par Power Query afin de ne pas mettre en péril les retraitements ultérieurs
