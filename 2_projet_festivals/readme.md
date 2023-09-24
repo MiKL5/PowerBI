@@ -38,7 +38,15 @@
 * Extraction des informations d'une date
 * Extraction des informations d'une heure
 
-
+> ### **Modification du tableau**
+>
+> * Regrouper par
+> * Transposer le tableau
+> * Inverser les lignes
+> * Conservation et suppression de lignes
+> * Changer le tri d'un tableau
+> * Fusionner des requêtes
+> * Concaténer des requêtes
 
 ___
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
