@@ -3,40 +3,40 @@
 ## **Via Power Query** <img align="right" src="../assets/powerQuery.png" alt="Power Query" title="Power Query" widht="auto" height="64px">
 
 > ### **Modifier des colonnes**
-
-* Supprimer les colonnes inutiles
-* Renommage de colonne
-    * Termes pas trop long
-    * Et compréhensible par tous [¹] [²]
-* Permuter les colonnes
-* Changer le type des colonnes
-* Changer le type des colonnes
-* Auto-détecter les valeurs des colonnes
-* Remplacer les valeurs des colonnes
-* Remplacer les erreurs
-* Pivoter et dépivoter les colonnes
-* Remplir les lignes vides avec des valeurs adjacentes [³]
+>
+> * Supprimer les colonnes inutiles
+> * Renommage de colonne
+>     * Termes pas trop long
+>     * Et compréhensible par tous [¹] [²]
+> * Permuter les colonnes
+> * Changer le type des colonnes
+> * Changer le type des colonnes
+> * Auto-détecter les valeurs des colonnes
+> * Remplacer les valeurs des colonnes
+> * Remplacer les erreurs
+> * Pivoter et dépivoter les colonnes
+> * Remplir les lignes vides avec des valeurs adjacentes [³]
 
 > ### **Modification des colonnes de texte**
-
-* Fractionner une colonne
-* Changer le format d'une valeur textuel
-* Fusionner des colonnes
-* Extraire des valeurs d'une colonne
-* Analyse du `XML` ou du `JSON` contenu dans une colonne
+>
+> * Fractionner une colonne
+> * Changer le format d'une valeur textuel
+> * Fusionner des colonnes
+> * Extraire des valeurs d'une colonne
+> * Analyse du `XML` ou du `JSON` contenu dans une colonne
 
 > ### **Modification des colonnes numériques**
-
-* Faire un arrondi
-* Appliquer des calculs statistiques
-* compter le nombre de lignes
-* Appliquer des calculs scientifiques
-* Extraire le signe d'une valeur
+>
+> * Faire un arrondi
+> * Appliquer des calculs statistiques
+> * compter le nombre de lignes
+> * Appliquer des calculs scientifiques
+> * Extraire le signe d'une valeur
 
 > ### **Modifier les colonnes date/heure**
-
-* Extraction des informations d'une date
-* Extraction des informations d'une heure
+>
+> * Extraction des informations d'une date
+> * Extraction des informations d'une heure
 
 > ### **Modification du tableau**
 >
@@ -47,6 +47,15 @@
 > * Changer le tri d'un tableau
 > * Fusionner des requêtes
 > * Concaténer des requêtes
+
+> ### **Option d'ajout de colonnes**
+>
+> * Ajouter une colonne à partir d'exemple
+> * Créer une colonne personnalisée
+> * Colonne conditionnelle
+> * Colonne d'index
+> * Duplication de la colonne
+> * Créer et utiliser une fonction personnalisée pour créer une colonne
 
 ___
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
