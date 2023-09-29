@@ -64,3 +64,5 @@ ___
 ___
 >>> NOTA  
 Se méfier des types de colonnes détectés par Power Query afin de ne pas mettre en péril les retraitements ultérieurs
+
+[Suite](../2bis)
