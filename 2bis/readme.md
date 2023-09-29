@@ -1,4 +1,4 @@
-**... suite**
+###  **... suite** <img align="right" src="../assets/powerQuery.png" alt="Power Query" title="Power Query" widht="auto" height="64px">
 
 > ## **Gérer des sources de données**
 > 
