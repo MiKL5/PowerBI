@@ -10,6 +10,6 @@
 > * Récupérer des data flow d'autres projets
 > * Copier une requête depuis son code source
 > * Dupliquer ou faire référence à une requête
-> * Faire une requête en Python <img align="left" margin-right="20px" src="[../assets/powerQuery.png](https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg)" alt="Python" title="Python" widht="auto" height="64px">
-> * Modifier un tableau avec Python
+> * Faire une requête en Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
+> * Modifier un tableau avec Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
 > 
