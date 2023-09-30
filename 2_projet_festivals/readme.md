@@ -58,7 +58,6 @@
 > * Créer et utiliser une fonction personnalisée pour créer une colonne
 
 > ### **Gérer des sources de données**
->>> _À part du projet_
 > * Rassembler des fichiers similaires depuis un dossier
 > * Se connecter à Microsoft SharePoint
 > * Se connecter à une API
@@ -69,8 +68,8 @@
 > * Dupliquer ou faire référence à une requête
 > * Faire une requête en Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
 > * Modifier un tableau avec Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
->>> _Dans le projet_
 > * Créer un tableau depuis zéro en M <img align="center" src="../assets\m.png" alt="M language" title="M language" widht="auto" height="20px">
+> * Créer des paramètres
 
 
 ___
@@ -80,5 +79,3 @@ ___
 ___
 >>> NOTA  
 Se méfier des types de colonnes détectés par Power Query afin de ne pas mettre en péril les retraitements ultérieurs
-
-[Suite](../2bis)
