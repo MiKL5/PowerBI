@@ -69,6 +69,19 @@
 * Bloquer l'actualisation d'une requête
 * Ranger les données dans des dossiers
 
+### Apprendre le langage M
+
+* [Pourquoi](../M/) apprendre à coder en M  
+* Apprendre à lire du code M
+* Les bases de la construction d'une requête
+* Les variables
+* Les opérateurs numériques
+* La notion de dépendance
+* Les opérateurs logiques
+* Les doubles opérateurs logiques
+* Les conditions
+* Les fonctions Power Query
+* Création de fonction
 
 ___
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
