@@ -57,6 +57,22 @@
 > * Duplication de la colonne
 > * Créer et utiliser une fonction personnalisée pour créer une colonne
 
+> ### **Gérer des sources de données**
+>>> _À part du projet_
+> * Rassembler des fichiers similaires depuis un dossier
+> * Se connecter à Microsoft SharePoint
+> * Se connecter à une API
+> * Extraire les tableaux d'une page web
+> * Extraire les données d'une plateforme dans le cloud (Google Big Query)
+> * Récupérer des data flow d'autres projets
+> * Copier une requête depuis son code source
+> * Dupliquer ou faire référence à une requête
+> * Faire une requête en Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
+> * Modifier un tableau avec Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
+>>> _Dans le projet_
+> * Créer un tableau depuis zéro en M <img align="center" src="../assets\m.png" alt="M language" title="M language" widht="auto" height="20px">
+
+
 ___
 [¹] Certaines manipulations incombent d'écrire les noms des colonnes  
 [²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes  

@@ -12,4 +12,3 @@
 > * Dupliquer ou faire référence à une requête
 > * Faire une requête en Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
 > * Modifier un tableau avec Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
-> 
