@@ -2,11 +2,10 @@
 
 <div align="center">
 
->### **Cet atelier concerne la fréquentation des cinémas depuis 70 ans. Le jeu de données est 100% justes.**  
+## **Entrées par jour**
 
 </div>
 
-## **Entrées par jour**
 * Importez la table des entrées par jour
 * Des lignes vides apparaissent en bas de tableau, supprimez-les
 * Des colonnes vides apparaissent également en fin de tableau, conservez uniquement celles qui contiennent des données 

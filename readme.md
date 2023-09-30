@@ -2,4 +2,4 @@
 
 1. [Projet Cryptomonnaie](1_introduction)
 2. [Projet Festival](2_projet_festivals)
-3. [Atelier Cinémas](3_cinema "Travaux pratiques")
+3. [Atelier Cinéma](3_cinema "Travaux pratiques")
