@@ -44,4 +44,4 @@
 * Diagnostiquer la performance de son rapport
 * L'onglet données explorer
 
-[¹] Les visuels d'IA sont interactifs et pemettent des interactions très pointues et sont très agréables aussi pour l'utilisateur final.
+[¹] Les visuels d'IA sont interactifs et permettent des interactions très pointues et sont très agréables aussi pour l'utilisateur final.
