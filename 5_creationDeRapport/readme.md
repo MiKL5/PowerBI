@@ -35,7 +35,7 @@
 * Télécharger des visuels personnalisés
 * L'arborescence de décomposition _(visuel d'intelligence artificielle_[¹]_)_
 * Les influenceurs clés _(visuel d'intelligence artificielle_[¹]_)_
-  > l'IA cherche les corrélations et explications pour aider à comprendre les données.
+  > L'IA cherche les corrélations et explications pour aider à comprendre les données.
 * La narration intelligente _(visuel d'intelligence artificielle_[¹]_)_
   > Se base sur les graphiques préalablement générés pour expliquer ledit graphique.
 * Mise en forme d'un rapport
