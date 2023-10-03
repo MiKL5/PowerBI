@@ -45,7 +45,7 @@
 * Optimiser le rapport pour les mobiles
 * Créer des signets
 * Diagnostiquer la performance de son rapport
-* L'onglet données explorer
+* L'onglet `données / explorer`
 
 ___
 [¹] Les visuels d'IA sont interactifs et permettent des interactions très pointues et sont très agréables aussi pour l'utilisateur final.
