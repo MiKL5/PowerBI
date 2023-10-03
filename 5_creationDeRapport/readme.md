@@ -33,8 +33,8 @@
   > Les boîtes à moustache résument un histogramme avec seulement 4 paliers (quartiles avec la médiane au centre) ainsi que les valeurs minimales et maximales. Comporte moins de finesse qu'un histogramme, mais, permet de comparer les distributions. Elles sont moins évidentes à comprendre, donc des explications sont souvent utiles.
   > Sert à la répartition des produits par prix, des élèves par note, des humains par taille, et cætera.
 * Télécharger des visuels personnalisés
-* L'arborescence de décomposition
-* Les influenceurs clés
+* L'arborescence de décomposition _(visuel d'intelligence artificielle[¹])_
+* Les influenceurs clés _(visuel d'intelligence artificielle[¹])
 * Mise en forme d'un rapport
 * Ajouter des filtres dans son rapport
 * Personnaliser les bulles d'information
@@ -43,3 +43,5 @@
 * Créer des signets
 * Diagnostiquer la performance de son rapport
 * L'onglet données explorer
+
+[¹] Les visuels d'IA sont interactifs et pemettent des interactions très pointues et sont très agréables aussi pour l'utilisateur final.
