@@ -19,7 +19,7 @@
   > Utile pour faire une répartition des dépenses et une répartition du stockage d'un serveur, par ex.
 * Les courbes et les aires
   > Les courbes sont représentées par une arête constituée de points ayant des coordonnées X et Y, tous reliés par un trait. Très utile pour la chronologie. L'effet spaghettis (trop de courbe) le rend illisible.  
-  > Les aires consistent à remplir les zones sous la courbe. Cela permet de comprendre de comprendre ce qui serait difficile avec des courbes.  
+  > Les aires consistent à remplir les zones sous la courbe. Cela permet de comprendre ce qui serait difficile avec des courbes.  
   > Exemple d'utilisation : connaître l'évolution du CA, le trafic mensuel d'un site web ou une courbe épidémiologique.
 * Les nuages de points et bubble chart
   > Utiliser en analyse statistique. Permet de savoir s'il existe une corrélation entre plusieurs propriétés. Permet de mettre en exergue des valeurs extrêmes par rapport à la tendance.  
@@ -30,6 +30,8 @@
   > Utilisées pour connaître le CA par pays, le taux d'abstention par région, etc.
 * Les doubles graphiques
 * Intégrer des graphiques Python
+  > Les boîtes à moustache résument un histogramme avec seulement 4 paliers (quartiles avec la médiane au centre) ainsi que les valeurs minimales et maximales. Comporte moins de finesse qu'un histogramme, mais, permet de comparer les distributions. Elles sont moins évidentes à comprendre, donc des explications sont souvent utiles.
+  > Sert à la répartition des produits par prix, des élèves par note, des humains par taille, et cætera.
 * Télécharger des visuels personnalisés
 * L'arborescence de décomposition
 * Les influenceurs clés
