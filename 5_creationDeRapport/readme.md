@@ -26,6 +26,8 @@
   > Communément utiliser pour faire la relation entre le coût d'un produit et la marge réalisée. en fonction du type de produit ou du CA.
 * Les tableaux et les matrices
 * Les géolocalisations
+  > Carte affichant des métriques simples ou la répartition.
+  > Utilisées pour connaître le CA par pays, le taux d'abstention par région, etc.
 * Les doubles graphiques
 * Intégrer des graphiques Python
 * Télécharger des visuels personnalisés
