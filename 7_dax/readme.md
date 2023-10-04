@@ -40,7 +40,7 @@ ___
   > Puis le code DAX est généré  et affichier, et peut-petre modifier au besoin.
 * Créer une colonne en DAX
 * Créer un tableau en DAX
-* Ranger les mesures dans un dossier
+* Organiser les mesures dans un dossier
 * Les fonctions horaires
    * calendrier et date
    * Datediff
