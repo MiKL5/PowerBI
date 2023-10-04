@@ -29,6 +29,12 @@ ___
 
 * Introduction
 * Créer une mesure DAX
+  > Une mesure DAX à toujours la même structure :  
+  > `Nom de la mesure = count(Table[Colonne])`  
+  >> Le nom de la mesure démarre la formule ;  
+  >> Une fonction DAX (ici la fonction `count()`) ;  
+  >> Entre parenthèses la table sur laquelle est appliquée la mesure ;  
+  >> Puis, entre crochés, la colonne.
 * Créer une mesure rapide
 * Créer une colonne en DAX
 * Créer un tableau en DAX
