@@ -33,9 +33,11 @@ ___
   > `Nom de la mesure = count(Table[Colonne])`  
   >> Le nom de la mesure démarre la formule ;  
   >> Une fonction DAX (ici la fonction `count()`) ;  
-  >> Entre parenthèses la table sur laquelle est appliquée la mesure ;  
+  >> Entre parenthèses, la table sur laquelle est appliquée la mesure ;  
   >> Puis, entre crochés, la colonne.
 * Créer une mesure rapide
+  > La mesure rapide est limité car elle n'utilise pas les fonctions, mais, propose différents types de traitement des données, comme les filtres, les totaux, les opérations mathématiques, etc.
+  > Puis le code DAX est généré  et affichier, et peut-petre modifier au besoin.
 * Créer une colonne en DAX
 * Créer un tableau en DAX
 * Ranger les mesures dans un dossier
