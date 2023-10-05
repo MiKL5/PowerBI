@@ -60,3 +60,6 @@ ___
 * Les fonctions de relation
 * Les fonctions statistiques
 * Les fonctions de manipulation de tables
+
+___
+[TP](8_tpDax)
