@@ -1,4 +1,4 @@
-# **Création de rapport** <img align="right" src="../assets/DAX.svg" alt="langage DAX" title="langage DAX" widht="auto" height="64px"> <img align="right" src="../assets/powerPivot.png" alt="Power Pivot" title="Power Pivot" widht="auto" height="64px">
+# **Création de rapport** <a href="../"><img align="right" src="../assets/DAX.svg" alt="langage DAX" height="64px"> <img align="right" src="../assets/powerPivot.png" alt="Power Pivot" height="64px"></a>
 
 * Introduction à la data visualisation
 * Introduction à la statistique

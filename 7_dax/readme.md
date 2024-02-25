@@ -1,4 +1,4 @@
-# **Le langage DAX** <img align="right" src="../assets/DAX.svg" alt="langage DAX" title="langage DAX" widht="auto" height="64px">
+# **Le langage DAX** <a href="../"><img align="right" src="../assets/DAX.svg" alt="langage DAX" height="64px"></a>
 
 Dax pour Data Analysis Expressions, en français, Expressions pour l'Analyse des Données.  
 

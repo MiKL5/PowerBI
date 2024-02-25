@@ -1,4 +1,4 @@
-# **TP - Utiliser le langage DAX**
+# **TP - Utiliser le langage DAX** <a href="../"><img align="right" src="../assets/DAX.svg" alt="langage DAX" height="64px"></a>
 
 * Avec la table « Entrées par origine », créez une mesure retournant le nombre d’entrées réalisés par les films Européens (Français + Européen)
 * Depuis la table « Fréquentation Cinémas global », créez une mesure retournant le nombre de valeurs manquantes dans la colonne « Séances »

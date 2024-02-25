@@ -1,4 +1,4 @@
-# 🎥 **TP Cinéma** 🎥
+# 🎥 **TP Cinéma** 🎥 <a href="../"><img align="right" src="../assets/powerBi.png" alt="Power BI" height="64px"></a>
 
 <div align="center">
 

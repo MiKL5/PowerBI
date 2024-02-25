@@ -1,4 +1,4 @@
-# **Projet festival** <img align="right" src="../assets/powerQuery.png" alt="Power Query" title="Power Query" widht="auto" height="64px">
+# **Projet festival** <a href="../"><img align="right" src="../assets/powerQuery.png" alt="Power Query" height="64px"></a>
 
 ### **Modifier des colonnes**
 * Supprimer les colonnes inutiles
@@ -62,9 +62,9 @@
 * Récupérer des data flow d'autres projets
 * Copier une requête depuis son code source
 * Dupliquer ou faire référence à une requête
-* Faire une requête en Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
-* Modifier un tableau avec Python <img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" title="Python" widht="auto" height="20px">
-* Créer un tableau depuis zéro en M <img align="center" src="../assets\m.png" alt="Mashup" title="Mashup" widht="auto" height="20px">
+* Faire une requête en Python <a href="#"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="20px"></a>
+* Modifier un tableau avec Python <a href="#"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="20px"></a>
+* Créer un tableau depuis zéro en M <a href="#"><img align="center" src="../assets\m.png" alt="Mashup" height="20px"></a>
 * Créer des paramètres
 * Bloquer l'actualisation d'une requête
 * Ranger les données dans des dossiers

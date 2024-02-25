@@ -1,4 +1,4 @@
-# **Le `data model` 📈**  <img align="right" src="../assets/powerPivot.png" alt="Power Pivot" title="Power Pivot" widht="auto" height="64px">
+# **Le `data model` 📈**  <a href="../"><img align="right" src="../assets/powerPivot.png" alt="Power Pivot" height="64px"></a>
 
 Le `data model` est une zone d'entrée de `Power Pivot`.  
 Il est composé de trois onglets à gauches. Le premier pour la visualisation (zone `Rapport`).  

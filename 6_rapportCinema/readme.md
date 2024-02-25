@@ -1,4 +1,4 @@
-# **TP - Créer le rapport pour le projet Cinéma** <img align="right" src="../assets/powerPivot.png" alt="Power Pivot" title="Power Pivot" widht="auto" height="64px">
+# **TP - Créer le rapport pour le projet Cinéma** <a href="../"><img align="right" src="../assets/powerPivot.png" alt="Power Pivot" height="64px"></a>
 
 * Ajoutez un titre à la page de rapport
 * À partir de la table « Entrées par jour », Créez un histogramme vertical affichant les jours de la semaine avec les pourcentages moyens de la fréquentation
