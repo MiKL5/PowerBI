@@ -1,4 +1,3 @@
-
 ._.git
 ._.gitignore
 .idea/.gitignore
@@ -7,3 +6,35 @@
 .idea/PowerBI.iml
 .idea/vcs.xml
 5_creationDeRapport/graphique_python.txt
+2_projet_festivals/fichiers_d_exemples/fractionner_les_colonnes.xlsx
+2_projet_festivals/fichiers_d_exemples/json_et_xml.xlsx
+2_projet_festivals/fichiers_d_exemples/clients/clients 1.csv
+2_projet_festivals/fichiers_d_exemples/clients/clients 2.csv
+2_projet_festivals/fichiers_d_exemples/clients/clients 3.csv
+2_projet_festivals/fichiers_d_exemples/clients/clients 4.csv
+2_projet_festivals/Power bi de cours/1_Power Query - Modification des colonnes par type de données.pbix
+2_projet_festivals/Power bi de cours/2_Power Query - Modification du tableau.pbix
+2_projet_festivals/Power bi de cours/3_Power Query - Creation de colonnes.pbix
+2_projet_festivals/Power bi de cours/4_power BI_ gestion du modèle de données.pbix
+2_projet_festivals/Power bi de cours/5_¨pwer BI_La creation de rapports.pbix
+2_projet_festivals/Power bi de cours/6_power BI - le langage Dax.pbix
+2_projet_festivals/Power bi de cours/7_power BI Pro.pbix
+2_projet_festivals/requêtes_python/1_installation de python.txt
+2_projet_festivals/requêtes_python/2_requête_python_API_Meteo.txt
+2_projet_festivals/requêtes_python/3_créer_un_graphique_python_dans_la_zone_rapport.txt
+2_projet_festivals/festivals.xlsx
+2_projet_festivals/heures_d_ouvertures_et_duree_-_festivals.xlsx
+2_projet_festivals/img_1.png
+2_projet_festivals/img_2.png
+2_projet_festivals/img.png
+2_projet_festivals/participants_par_annee_avant_70.xlsx
+2_projet_festivals/participants_par_annee.xlsx
+2_projet_festivals/population_par_age_et_par_departement.xlsx
+2_projet_festivals/population_par_region.xlsx
+3_projet_cinema/fichiers d'appels/entrees_par_jour.xlsx
+3_projet_cinema/fichiers d'appels/entrees_par_origine.xlsx
+3_projet_cinema/fichiers d'appels/frequentation_globale.xlsx
+3_projet_cinema/fichiers d'appels/séances_par_mois.xlsx
+3_projet_cinema/~WRL0003.tmp
+3_projet_cinema/ennoncé exercice power query.docx
+3_projet_cinema/fichier_completé (uniquement si vous êtes bloqué !).pbix
