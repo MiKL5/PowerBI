@@ -1,4 +1,4 @@
-# **Power BI** <a href="https://github.com/MiKL5"><img align="right" src="assets/powerBi.png" alt="Power BI" height="64px"></a>
+# **Power BI** <a href="https://github.com/MiKL5/BI/"><img align="right" src="assets/powerBi.png" alt="Power BI" height="64px"></a>
 
 1. [Projet Cryptomonnaie](1_introduction)
 2. [Projet Festival](2_projet_festivals)
@@ -9,3 +9,4 @@
 7. [TP créer un rapport](6_rapportCinema)
 8. [Le langage DAX](7_dax)
 9. [TP Utiliser le langage DAX](8_tpDax)
+10. [TP Ventes](9_tpVentes) <kbd>_wip_</kbd>
