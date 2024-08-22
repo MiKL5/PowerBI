@@ -9,4 +9,4 @@
 7. [TP créer un rapport](6_rapportCinema)
 8. [Le langage DAX](7_dax)
 9. [TP Utiliser le langage DAX](8_tpDax)
-10. [TP Ventes](9_tpVentes) <kbd>_wip_</kbd>
+10. [TP Ventes](9_tpVentes)
