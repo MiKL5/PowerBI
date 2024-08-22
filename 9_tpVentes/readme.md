@@ -56,3 +56,12 @@
 6. Peaufiner la mise en forme d’un rapport :
     * Mettre un titre ;
     * changer l’arrière-plan du canvas.
+## **Analyse des ventes**
+1. Convevoir une mesure de base (SUM et SUMX) :
+    * Il est préfferable d’explicité les calculs <!-- en utilisant le langage DAX -->pour ne plus être modifiable.
+2. Calculer le Chiffre d’Affaire Brut ;
+3. Déterminer le rablais total ;
+4. Déterminer le CA net ;
+5. Créer un indicater filtrer filtrer via “calculate” ;
+6. Mettre un titre dynamique <!-- Ne pas ommettre le '&' pour concatener le texte et la formule -->.
+<!-- ##  -->
