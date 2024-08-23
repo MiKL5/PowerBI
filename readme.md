@@ -9,4 +9,5 @@
 7. [TP créer un rapport](6_rapportCinema)
 8. [Le langage DAX](7_dax)
 9. [TP Utiliser le langage DAX](8_tpDax)
-10. [TP Ventes](9_tpVentes)
+10. [Chiffres d’affaires des ventes](9_tpVentes)
+11. [Analyse des ventes](10_tpVentes1)
