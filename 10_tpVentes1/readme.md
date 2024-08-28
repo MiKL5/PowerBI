@@ -9,7 +9,7 @@
 3. Créer une mesure DAX automatique<!-- (nouvelle mesure rapide, valeur de base: quantités vendues et le filtre : pays et éventuellement une valeur)--> ;
 4. Référencer des mesures existantes ;
 5. Formater correctement des mesures DAX <!--(doucle cliquer sur la mesure et dans le ruban ‘Outils de mesure’, Choisir le format pourcentage)--> ;
-6. Organiser les mesures DAX correcttement<!-- (dans le ruban ‘Accueil’, ‘Entrér des données’, en bas nommé “Mesures”. Puis à gauche dans ‘Vue de modèle’ et dans l’onglet ‘Données’ à droite déplacer les mesures)--> ;
+6. Organiser les mesures DAX correcttement<!-- (dans le ruban ‘Accueil’, ‘Entrér des données’, en bas nommé “Mesures”. Puis à gauche dans ‘Vue de modèle’ et dans l’onglet ‘Données’ à droite déplacer les mesures)-->.
 ## **Créer des indicateurs avancés avec DAX**
 1. Ajouter la métrique du Chiffre d’Affaires<!-- (sumx() fait la somme par ligne)--> ;
 2. Ajouter celle du coût total ;
