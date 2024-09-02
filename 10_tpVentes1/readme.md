@@ -16,8 +16,8 @@
 3. Ajouter la mesure proflt ;
 4. Ignorer le segment ;
 5. Concevoir le ratio pourcentage<!-- (créer la mesure et séléctionner % avant d'appuyer sur entrée)-->.
-<!-- ## **Mener des analyses temporelles** -->
-<!-- 1. Le fonctionnement des dates ; -->
+## **Mener des analyses temporelles**
+1. Le fonctionnement des dates ;
 <!-- 2. Les différents niveaux de hiérarchie ; -->
 <!-- 3. Créer une table calendrier personnalisée ; -->
 <!-- 4. Calculer un cumul annuel ; -->
