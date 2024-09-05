@@ -18,7 +18,7 @@
 5. Concevoir le ratio pourcentage<!-- (créer la mesure et séléctionner % avant d'appuyer sur entrée)-->.
 ## **Mener des analyses temporelles**
 1. Le fonctionnement des dates ;
-<!-- 2. Les différents niveaux de hiérarchie ; -->
-<!-- 3. Créer une table calendrier personnalisée ; -->
-<!-- 4. Calculer un cumul annuel ; -->
-<!-- 5. Aficher une variation par année. -->
+2. Les différents niveaux de hiérarchie <!-- L création d'un calendrier est une règle d'or --> ;
+3. Créer une table calendrier personnalisée ;
+4. Calculer un cumul annuel ;
+5. Aficher une variation par année.
