@@ -22,3 +22,6 @@
 3. Créer une table calendrier personnalisée ;
 4. Calculer un cumul annuel ;
 5. Aficher une variation par année.
+## **Booseter la visualisation des données avec DAX**
+1. Mettre en place un titre dynamique simple
+2. Mettre en place un titre dynamique avancé
