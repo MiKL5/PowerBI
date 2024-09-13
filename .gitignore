@@ -1,10 +1,5 @@
 ._.git
 ._.gitignore
-.idea/.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/PowerBI.iml
-.idea/vcs.xml
 5_creationDeRapport/graphique_python.txt
 2_projet_festivals/fichiers_d_exemples/fractionner_les_colonnes.xlsx
 2_projet_festivals/fichiers_d_exemples/json_et_xml.xlsx
@@ -38,3 +33,9 @@
 3_projet_cinema/~WRL0003.tmp
 3_projet_cinema/ennoncé exercice power query.docx
 3_projet_cinema/fichier_completé (uniquement si vous êtes bloqué !).pbix
+9_tpVentes/Caspratique-Ventes.xlsx
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/PowerBI.iml
+.idea/vcs.xml
