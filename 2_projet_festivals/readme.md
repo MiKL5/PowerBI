@@ -16,9 +16,9 @@
 
 ### **Modification des colonnes de texte**
 * Fractionner une colonne
-* Changer le format d'une valeur textuel
+* Changer le format d’une valeur textuelle
 * Fusionner des colonnes
-* Extraire des valeurs d'une colonne
+* Extraire des valeurs d’une colonne
 * Analyse du `XML` ou du `JSON` contenu dans une colonne
 
 ### **Modification des colonnes numériques**
@@ -26,12 +26,12 @@
 * Appliquer des calculs statistiques
 * compter le nombre de lignes
 * Appliquer des calculs scientifiques
-* Extraire le signe d'une valeur
+* Extraire le signe d’une valeur
 
 ### **Modifier les colonnes date/heure**
 
-* Extraction des informations d'une date
-* Extraction des informations d'une heure
+* Extraction des informations d’une date
+* Extraction des informations d’une heure
 
 ### **Modification du tableau**
 
@@ -39,16 +39,16 @@
 * Transposer le tableau
 * Inverser les lignes
 * Conservation et suppression de lignes
-* Changer le tri d'un tableau
+* Changer le tri d’un tableau
 * Fusionner des requêtes
 * Concaténer des requêtes
 
-### **Option d'ajout de colonnes**
+### **Option d’ajout de colonnes**
 
-* Ajouter une colonne à partir d'exemple
+* Ajouter une colonne à partir d’exemple
 * Créer une colonne personnalisée
 * Colonne conditionnelle
-* Colonne d'index
+* Colonne d’index
 * Duplication de la colonne
 * Créer et utiliser une fonction personnalisée pour créer une colonne
 
@@ -57,23 +57,23 @@
 * Rassembler des fichiers similaires depuis un dossier
 * Se connecter à Microsoft SharePoint
 * Se connecter à une API
-* Extraire les tableaux d'une page web
-* Extraire les données d'une plateforme dans le cloud (Google Big Query)
-* Récupérer des data flow d'autres projets
+* Extraire les tableaux d’une page web
+* Extraire les données d’une plateforme dans le cloud (Google Big Query)
+* Récupérer des data flow d’autres projets
 * Copier une requête depuis son code source
 * Dupliquer ou faire référence à une requête
 * Faire une requête en Python <a href="#"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="20px"></a>
 * Modifier un tableau avec Python <a href="#"><img align="center" src="https://github.com/MiKL5/Python/raw/master/src/images/Python-logo-notext.svg" alt="Python" height="20px"></a>
 * Créer un tableau depuis zéro en M <a href="#"><img align="center" src="../assets\m.png" alt="Mashup" height="20px"></a>
 * Créer des paramètres
-* Bloquer l'actualisation d'une requête
+* Bloquer l’actualisation d’une requête
 * Ranger les données dans des dossiers
 
 ### Apprendre le langage M
 
-* [Pourquoi](../M/) apprendre à coder en M  
+* [Pourquoi](../docs/M) apprendre à coder en M  
 * Apprendre à lire du code M
-* Les bases de la construction d'une requête
+* Les bases de la construction d’une requête
 * Les variables
 * Les opérateurs numériques
 * La notion de dépendance
@@ -84,9 +84,9 @@
 * Création de fonction
 
 ___
-[¹] Certaines manipulations incombent d'écrire les noms des colonnes  
-[²] Il est possible d'ajouter un glossaire à Power BI sur les noms de colonnes  
-[³] Ne pas le faire si ce n'est pas nécessaire ou s'il manque beaucoup de valeurs et laisser un commentaire sous le graphique si c'est fait.
+[¹] Certaines manipulations incombent d’écrire les noms des colonnes  
+[²] Il est possible d’ajouter un glossaire à Power BI sur les noms de colonnes  
+[³] Ne pas le faire si ce n’est pas nécessaire ou s’il manque beaucoup de valeurs et laisser un commentaire sous le graphique si c’est fait.
 ___
 >>> NOTA  
 Attention aux types de colonnes détectés par Power Query ça peut mettre en péril les retraitements ultérieurs

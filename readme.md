@@ -1,4 +1,4 @@
-# **Power BI** <a href="https://github.com/MiKL5/BI/"><img align="right" src="assets/powerBi.png" alt="Power BI" height="64px"></a>
+# **Power BI** <a href="https://github.com/MiKL5/BI/"><img align="right" src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg#/media/File:New_Power_BI_Logo.svg" alt="Power BI" height="64px"></a>
 
 1. [Projet Cryptomonnaie](1_introduction) ₿
 2. [Projet Festival](2_projet_festivals) 🎉
@@ -11,6 +11,10 @@
 9. [TP Utiliser le langage DAX](8_tpDax) 🧮
 10. [Chiffres d’affaires des ventes](9_tpVentes) 💰📈
 11. [Analyse des ventes](10_tpVentes1) 📈🔍
-___
+<!-- 12. []() -->
+<!-- ___
 [M](docs/M)  
-[DAX](docs/DAX)
+[DAX](docs/DAX)  
+[PowerQuery](docs/PowerQuery)  
+[PoowerPivot](docs/PowerPivot)  
+[PowerView](docs/PowerView) -->
