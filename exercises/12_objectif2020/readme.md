@@ -1,0 +1,1 @@
+La saisie des données est rare ; les données ne seront pas mises à jour si le fichier source est mis-à-jour.
