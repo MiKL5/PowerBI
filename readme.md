@@ -11,8 +11,7 @@
 9. [TP Utiliser le langage DAX](8_tpDax)
 10. [Chiffres d’affaires des ventes](9_tpVentes)
 11. [Analyse des ventes](10_tpVentes1)
-12. [Ventes]()
-13. [Chiffre d’affaires annuel]()
+
 <!-- ___
 [M](docs/M)  
 [DAX](docs/DAX)  
