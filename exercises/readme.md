@@ -19,3 +19,8 @@
 19. Importer un fichier Excel vers SQL Server puis vers Power BI
 20. Déterminer la provenance des données
 21. Importer des données du web (web scraping)
+22. Mesures vs colonnes calculées
+23. Le contexte de filtre avec DAX
+24. La fonction calculate
+25. Les fonctions ’`SUM`’ et '`SUMX`’
+26. La fonction `SAMEPERIODLASTYEAR` avec DAX
