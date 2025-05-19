@@ -1,0 +1,1 @@
+’`SAMEPERIODLASTYEAR`’ permet le parangon d’année en année.
