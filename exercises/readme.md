@@ -1,4 +1,4 @@
-1. Transformations de données <a href="https://github.com/MiKL5/BI/"><img align="right" src="../assets/Power_BI.svg" alt="Power BI" height="64px"></a>
+1. Transformations de données <a href="../"><img align="right" src="../assets/Power_BI.svg" alt="Power BI" height="64px"></a>
 2. Pivot des colonnes
 3. Remplir les cellules vides
 4. Séparer les données des colonnes
@@ -24,9 +24,9 @@
 24. La fonction calculate
 25. Les fonctions ’`SUM`’ et ’`SUMX`’
 26. La fonction ’`SAMEPERIODLASTYEAR`’ avec DAX
-<!-- 27. Les fonctions ‘time intelligence’
+27. Les fonctions ‘time intelligence’
 28. La fonction ’`PREVIOUSMOUTH`’
 29. La fonction ’`RANKX`’
 30. La fonction ’`KEEPFILTERS`’
 31. Les moyennes moviles avec DAX
-32. Les fonction ’`AVERAGE`’ et '`AVERAGEX`’ -->
+32. Les fonction ’`AVERAGE`’ et ’`AVERAGEX`’
