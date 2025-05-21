@@ -24,7 +24,7 @@
 24. La fonction calculate
 25. Les fonctions ’`SUM`’ et ’`SUMX`’
 26. La fonction ’`SAMEPERIODLASTYEAR`’ avec DAX
-27. Les fonctions ‘time intelligence’
+27. Les fonctions d’intelligence tamporelle
 28. La fonction ’`PREVIOUSMOUTH`’
 29. La fonction ’`RANKX`’
 30. La fonction ’`KEEPFILTERS`’
