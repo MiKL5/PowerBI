@@ -1,0 +1,2 @@
+<a href="../"><img align="right" src="../../assets/Power_BI.svg" alt="Power BI" height="64px"></a>’`KEEPFILTERS`’ est pratique pour isoler une données parmis un grand nombre de données.  
+Les autres lignes restent ouvertes.

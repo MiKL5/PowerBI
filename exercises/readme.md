@@ -25,7 +25,7 @@
 25. Les fonctions ’`SUM`’ et ’`SUMX`’
 26. La fonction ’`SAMEPERIODLASTYEAR`’ avec DAX
 27. Les fonctions d’intelligence tamporelle ’`MTD`’, ’`QTD`’, ’`YTD`’
-28. La fonction d’intelligence tamporelle ’`CALCULATE`’ et '`PREVIOUSMONTH`’
+28. Les fonctions d’intelligence tamporelle ’`CALCULATE`’ et ’`PREVIOUSMONTH`’
 29. La fonction ’`RANKX`’
 30. La fonction ’`KEEPFILTERS`’
 31. Les moyennes moviles avec DAX

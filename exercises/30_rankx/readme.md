@@ -1,0 +1,1 @@
+<a href="../"><img align="right" src="../../assets/Power_BI.svg" alt="Power BI" height="64px"></a>La fonction ’`RankX`’ consiste à créer un rang, ici au niveau des produits, qui sera variable selon le contexte du filtre (e.g. en changeant la ville).
