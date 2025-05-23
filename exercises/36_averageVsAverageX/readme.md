@@ -6,3 +6,9 @@ Simple | Itérative
 1 colonne | 1 table ou 1 expression renvoyant 1 table
 Ne boucle pas | Boucle les lignes
 . | Permet la sélection des mois, par exemple
+
+## **📌 En résumé**
+Fonction | Simplicité | Flexibilité | Puissance | Utilisation
+---|:-:|:-:|:-:|---|
+`AVERAGE`  | ✅ Très simple   | ❌ Limitée       | ❌ Faible  | Moyennes directes
+`AVERAGEX` | ❌ Plus complexe | ✅ Très flexible | ✅ Élevée  | Moyennes conditionnelles ou calculées
