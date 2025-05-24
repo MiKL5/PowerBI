@@ -32,6 +32,6 @@
 32. Les fonction ’`AVERAGE`’ et ’`AVERAGEX`’
 33. Construction d’un visuel
 34. Tableau
-<!-- 35. La différence entre table matrice
+35. La différence entre table matrice
 36. Modifier les visuels matrice
-37. La mise en forme conditionnelle -->
+37. La mise en forme conditionnelle
