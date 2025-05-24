@@ -35,3 +35,8 @@
 35. La différence entre table matrice
 36. Modifier les visuels matrice
 37. La mise en forme conditionnelle
+38. Les histogrammes compplexes
+39. Le graphique en courbe
+40. La carte (vignettte)
+41. Les maps
+42. La jauge

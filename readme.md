@@ -1,5 +1,4 @@
 # **Power BI** <a href="https://github.com/MiKL5/BI/"><img align="right" src="assets/Power_BI.svg" alt="Power BI" height="64px"></a>
-
 1. [Projet Cryptomonnaie](1_introduction)
 2. [Projet Festival](2_projet_festivals)
 3. [TP Cinéma](3_cinema)
