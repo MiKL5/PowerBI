@@ -40,3 +40,43 @@
 40. La carte (vignettte)
 41. Les maps
 42. La jauge
+43. La segmntation
+44. Eléments supplémentaires aux visuels
+45. Aide au choix du bon vusuel
+46. Le marché des visuels
+47. [Power BI Service](39_powerBiServices)
+48. La création d’un compte
+49. La publication du rapport
+50. L’aperçu des fonctionnalités
+51. La planification de l’actualisation
+52. La publication d’un fichier Excel
+53. Les droits des utilisateurs et la sécurité
+54. Partager un rapport
+55. Importer un rapporter un rapport à un site Wordpress
+56. Création d’un rapport PowerPoint
+57. Ajouter des restictions au rappot
+58. Le concept de dataset
+59. Le concept de dataflux
+60. La création d’une application
+61. Automatiser le partage à l’aide de la création d’une newslettter
+62. Les rôles dans un espace de travail
+63. L’actualisation incrémentielle
+64. XMLA endpoioint et actualisation d’une seule table avec la version premium
+65. Power Query
+66. L’interface
+67. Y importer un base Excel
+68. Y importer un BDD SQL Server
+69. Y importer un dossier
+70. Les étapes avec la fenêtre “Requête et connexion”
+71. Modifier les paramètres de connexion aux données
+72. Déplacer l’emplacement du fichier des données sources
+73. Cféation d’un paramètre pour filtrer les données
+74. Organier les requêtes
+75. Création d’une fonction
+76. La gestion des erreurs
+77. L’importance du type de données
+78. Les options de filtres de données
+79. La gestion des doublons & des valeurs ‘null’
+80. Assembler & fractionner les colonnes
+81. Utilisation de “Regrouper par”
+82. Combiner et lier des requêtes
