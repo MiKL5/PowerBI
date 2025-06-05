@@ -80,3 +80,10 @@
 80. Assembler & fractionner les colonnes
 81. Utilisation de “Regrouper par”
 82. Combiner et lier des requêtes
+83. Power Pivot
+84. Son interfance
+85. Y importer un fichier Excel
+86. Le collage pour immpoter
+87. Importer depuis SQL Server
+88. Importer un fichier CSV
+89. 

@@ -14,7 +14,6 @@ Power BI services est un SAAS, Software as a Service.
 Sont but est d’être utilisable par les non initiés, et de leur montrer que les données qui les concernent.  
 Nonobstant, les rôles de sécurités sont gérés dans Power BI desktop et dans Power BI services, les personnes pouvant regarder.
 ___
-47. [Power BI Service](../39_powerBiServices)
 48. La création d’un compte
 49. La publication du rapport
 50. L’aperçu des fonctionnalités
