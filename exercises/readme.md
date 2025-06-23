@@ -86,4 +86,12 @@
 86. Le collage pour immpoter
 87. Importer depuis SQL Server
 88. Importer un fichier CSV
-89. 
+89. PowerQuery
+90. Les feuilles de données
+91. Les Tableaux Croisés Dynamiques
+92. Les options des colonnes
+93. Mise en forme des données dans Power Pivot <!-- Car il arrive qu'Excel choisisse mal -->
+94. La notion de perspective
+95. La notion de colonnes calculées
+96. La notion de meusures calculées
+97. Les relation entre les tables
