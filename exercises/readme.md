@@ -91,7 +91,30 @@
 91. Les Tableaux Croisés Dynamiques
 92. Les options des colonnes
 93. Mise en forme des données dans Power Pivot <!-- Car il arrive qu'Excel choisisse mal -->
-94. La notion de perspective
-95. La notion de colonnes calculées
+94. La perspective
+95. La colonnes calculées
 96. La notion de meusures calculées
 97. Les relation entre les tables
+98. Les tables de date <!-- Permet l'analyse plus poussée ex (les ventes) -->
+99. Les indicateurs de performance (KPI)
+100. La hiérarchie
+101. Modifier le jeu de linges d’un TCD
+102. Modifier un TCD en valeurs brutes
+103. Le tableau de bord
+104. Importer les données de Power Query à Excel
+105. Manipulation des données avec Power Query
+106. Manipuler la colones date des ventes
+107. Ajout de colonne avec Power Pivot
+108. Créer une mesure calculée
+109. Le gestionnaire de nom
+110. Le graphique croisé dynamique
+111. Le graphique en secteur
+112. La manipulation de graphique
+113. Le segment sur mon graphique
+114. La mise en forme du rapport
+115. Les mesures avancées
+116. Le graphique complexe
+117. Mettre en forme le rapport
+118. Les boutons dynamiques
+119. Préparer la tableau de bord au partage
+120. Le partager
