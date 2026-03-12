@@ -15,5 +15,5 @@ ___
 
 <div align="center"><hr><h2><b>Contenu connexes</b></h2></div>
 
-[📊 Business Intelligence](https://github.com/MiKL5/PowerBI)  
-<a href="https://github.com/MiKL5/TSQL/"><img src="https://github.com/MiKL5/TSQL/blob/master/assets/Microsoft_SQL_Server.svg" alt="Microsoft SQL Server" align="center" height="16px">SQL server</a>
+<a href="https://github.com/MiKL5/business-intelligence"><img src="https://github.com/MiKL5/" alt="Business intelligence" align="center" height="16">Business Intelligence</a>  
+<a href="https://github.com/MiKL5/TSQL/"><img src="https://github.com/MiKL5/TSQL/blob/main/assets/Microsoft_SQL_Server.svg" alt="Microsoft SQL Server" align="center" height="16">SQL server</a>
